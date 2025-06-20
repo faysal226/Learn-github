@@ -13,3 +13,12 @@ owhhhhh.....
 git add text.text
 hm
 my name is faysal
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+
+commit db505850db51a6718b74c7677ee75fdb63703b18 (HEAD)
+Author: faysal226 <mdfaysalahamadddd@gmail.com>
+Date:   Fri Jun 20 02:46:38 2025 +0600
