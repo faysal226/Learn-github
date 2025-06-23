@@ -30,3 +30,8 @@ java devloper is very demandable in this time
 1. git remote add origin https://github.com/faysal226/Learn-github.git
 2. git branch -M main
 3. git push -u origin main
+
+
+today is tuesday
+this is a rainy day.
+so,i'm sleeping...
